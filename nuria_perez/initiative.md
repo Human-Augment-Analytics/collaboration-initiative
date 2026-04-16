@@ -104,7 +104,11 @@ What still needs to be measured:
 
 ## Explain your method for testing these hypotheses via flowcharts
 
-The planned testing process is:
+The planned testing process follows a repeating cycle: define setup, announce and invite, run the session, track participation, collect feedback, evaluate KPIs, and adjust the format before the next round.
+
+![Session cycle: setup, announce, run, track participation, feedback, KPIs, adjust format](assets/session-planning-flowchart.png)
+
+In outline:
 
 1. Launch weekly session  
 2. Track attendance and participation  
