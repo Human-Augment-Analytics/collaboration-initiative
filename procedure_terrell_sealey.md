@@ -1,4 +1,4 @@
-# HAAG Collaboration Procedure
+## HAAG Collaboration Procedure
 
 ---
 
@@ -20,7 +20,7 @@ The structure focuses on interaction patterns (not project milestones) and adapt
 
 ## Core Principle
 
-> Collaboration = Visibility + Responsiveness + Peer Engagement
+> **Collaboration = Visibility + Responsiveness + Peer Engagement**
 
 Not just task completion.
 
@@ -36,14 +36,13 @@ Teams adjust collaboration intensity based on clarity and workload, but visibili
 
 Weekly reports are a standing HAAG requirement. Reports are submitted in the team's designated Slack channel (e.g., `#project-name`). In the future, this process may be extended through an AI tool or Slack bot to automatically verify submissions.
 
-> Managers must explicitly communicate this at the start of each semester and confirm all team members understand, including those who may have missed it in course syllabi.
+> ⚠️ Managers must explicitly communicate this at the start of each semester and confirm all team members understand, including those who may have missed it in course syllabi.
 
 ---
 
 ### Mandatory Peer Review
 
-Each team member must review at least one teammate's full weekly report every week and leave a substantive comment.  
-Comments should include:
+Each team member must review at least one teammate's full weekly report every week and leave a substantive comment. Comments should include:
 
 * Clarifying questions
 * Suggestions
@@ -56,14 +55,14 @@ Comments should include:
 
 Each team meeting should include a brief weekly report overview. Every member takes 1-2 minutes to cover:
 
-|  |  |
+| Topic | Description |
 | --- | --- |
 | Progress | What moved forward this week |
 | Stuck points | What's getting in your way |
 | Connections | Where your work connects to someone else's |
 | Priorities | What you're focusing on next |
 
-This ensures team-wide awareness and prevents silos.
+This ensures team-wide awareness and prevents silos. The Project Manager is responsible for ensuring this format is followed at each meeting and for following up with any member who consistently skips their overview.
 
 ---
 
@@ -71,20 +70,22 @@ This ensures team-wide awareness and prevents silos.
 
 Teams apply these practices at varying intensities depending on their current situation. These are not sequential stages. Blend them as needed.
 
+The Project Manager is responsible for assessing which practices are appropriate at any given time and communicating that to the team. This assessment should occur at the start of each semester, when new members join, and whenever a significant change in direction or workload occurs. If a team is observed operating without the appropriate practice level, the Project Manager is expected to intervene and realign the team before the next HAAG status report deadline.
+
 ---
 
 ### High Dialogue Practices
 
-Apply when the team lacks shared understanding or alignment.
+**Apply when:** The team lacks shared understanding or alignment.
 
-Common triggers include:
+**Common triggers:**
 
 * Beginning of semester
 * New members joining
 * Direction changes
 * Confusion or duplication
 
-#### Interaction Expectations
+**Interaction Expectations:**
 
 * Frequent discussion (meetings + Slack)
 * Questions encouraged and answered publicly
@@ -94,17 +95,17 @@ Common triggers include:
 
 > Even if team members have worked together before, HAAG requires explicit communication norms, not assumed understanding.
 
-Goal: Build shared understanding and psychological safety across the team.
+**Goal:** Build shared understanding and psychological safety across the team.
 
 ---
 
 ### Peer Visibility Practices
 
-Apply when responsibilities are distributed but work remains interconnected.
+**Apply when:** Responsibilities are distributed but work remains interconnected.
 
-Common context: Team understands direction and roles.
+**Common context:** Team understands direction and roles.
 
-#### Interaction Expectations
+**Interaction Expectations:**
 
 * Maintain visible ownership of responsibilities
 * Use Slack for progress updates and stuck points
@@ -113,15 +114,15 @@ Common context: Team understands direction and roles.
 
 Even if subgroups form, communication stays visible to the entire group.
 
-Goal: Independent work with continuous team-wide visibility.
+**Goal:** Independent work with continuous team-wide visibility.
 
 ---
 
 ### Synchronization Practices
 
-Apply when coordination intensity increases (shared outputs, deadlines, integration points).
+**Apply when:** Coordination intensity increases (shared outputs, deadlines, integration points).
 
-#### Interaction Expectations
+**Interaction Expectations:**
 
 * Short, focused coordination discussions
 * Immediate Slack updates when something is getting in your way
@@ -129,7 +130,7 @@ Apply when coordination intensity increases (shared outputs, deadlines, integrat
 * Explicit confirmation when work connects
 * Cross-check assumptions before finalizing deliverables
 
-Goal: Unified execution and shared accountability.
+**Goal:** Unified execution and shared accountability.
 
 ---
 
@@ -141,7 +142,7 @@ Goal: Unified execution and shared accountability.
 * Post meeting summaries
 * Stay active during collaboration periods
 
-Slack serves as a shared collaboration workspace for the entire team.
+Slack serves as a shared collaboration workspace for the entire team. The Project Manager monitors channel activity to ensure standards are being maintained and addresses any patterns of silence or private communication that should be public.
 
 ---
 
@@ -149,9 +150,11 @@ Slack serves as a shared collaboration workspace for the entire team.
 
 These practices are not mutually exclusive:
 
-1. High Dialogue - Always active, especially with new members or uncertainty
-2. Peer Visibility - Always active; weekly report peer review continues
-3. Synchronization - Activate whenever deliverables connect
+| Practice | When It Applies |
+| --- | --- |
+| High Dialogue | Always active, especially with new members or uncertainty |
+| Peer Visibility | Always active; weekly report peer review continues |
+| Synchronization | Activate whenever deliverables connect |
 
 Slack standards apply across all practices.
 
