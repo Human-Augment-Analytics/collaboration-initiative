@@ -19,6 +19,6 @@ Research on social facilitation and virtual accountability suggests that online 
 #### Procedures
 The primary procedure I developed was an SOP document outlining how anyone can set up a coworking session in a relatively simple and low-effort manner. The purpose of this procedure is to encourage individuals within HAAG to organize and participate in their own coworking sessions.
 
-Here is the link to the SOP document:  
-[HAAG Coworking Session SOP PDF](assets/HAAG%20Coworking%20Session%20SOP.pdf)
-[HAAG Coworking Session SOP](https://gtvault-my.sharepoint.com/:w:/g/personal/ncasas3_gatech_edu/IQDAFV-f5XzfT784Y7-0A6pKAS-3BE18t4v8bi7ejiAiuA4?e=iLsvAl)
+Here are the SOP document links:
+- [HAAG Coworking Session SOP PDF](assets/HAAG%20Coworking%20Session%20SOP.pdf)
+- [HAAG Coworking Session SOP](https://gtvault-my.sharepoint.com/:w:/g/personal/ncasas3_gatech_edu/IQDAFV-f5XzfT784Y7-0A6pKAS-3BE18t4v8bi7ejiAiuA4?e=iLsvAl)
