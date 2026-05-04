@@ -28,15 +28,15 @@ I generated three procedures. Together, they explain how a HAAG research group c
 
 | Procedure | Purpose | Primary Audience | Link |
 | --- | --- | --- | --- |
-| Project Snapshot Procedure | Explains how to create and maintain a one-page project overview for new and returning contributors. | Project managers, project leads, current researchers, new contributors. | [ADD LINK: 02_project_snapshot_procedure.md] |
-| Demo Log Procedure | Explains how to capture meaningful project updates, experiments, decisions, blockers, and next steps in a running plain-language log. | Project managers, project leads, researchers contributing updates. | [ADD LINK: 03_demo_log_procedure.md] |
-| Artifact Hub Procedure | Explains how to maintain one index of important project materials without duplicating content across tools. | Project managers, project leads, current researchers, new contributors, future managers. | [ADD LINK: 04_artifact_hub_procedure.md] |
+| Project Snapshot Procedure | Explains how to create and maintain a one-page project overview for new and returning contributors. | Project managers, project leads, current researchers, new contributors. | [Project Snapshot Procedure](https://github.com/Human-Augment-Analytics/collaboration-initiative/blob/main/Vidushi_Singla/02_project_snapshot_procedure.md) |
+| Demo Log Procedure | Explains how to capture meaningful project updates, experiments, decisions, blockers, and next steps in a running plain-language log. | Project managers, project leads, researchers contributing updates. | [Demo Log Procedure](https://github.com/Human-Augment-Analytics/collaboration-initiative/blob/main/Vidushi_Singla/03_demo_log_procedure.md) |
+| Artifact Hub Procedure | Explains how to maintain one index of important project materials without duplicating content across tools. | Project managers, project leads, current researchers, new contributors, future managers. | [Artifact Hub Procedure](https://github.com/Human-Augment-Analytics/collaboration-initiative/blob/main/Vidushi_Singla/04_artifact_hub_procedure.md) |
 
 I also created a short pilot feedback form that can be used to test whether the package is actually useful to a new or less-familiar contributor.
 
 | Supporting File | Purpose | Link |
 | --- | --- | --- |
-| Pilot Feedback Form | Measures whether a participant can understand the project goal, find key artifacts, identify a recent update, and name a starter next step after reviewing the materials. | [ADD LINK: 05_pilot_feedback_form.md] |
+| Pilot Feedback Form | Measures whether a participant can understand the project goal, find key artifacts, identify a recent update, and name a starter next step after reviewing the materials. | [Pilot Feedback Form](https://github.com/Human-Augment-Analytics/collaboration-initiative/blob/main/Vidushi_Singla/05_pilot_feedback_form.md) |
 
 ## Purpose of the Project Snapshot Procedure
 
